@@ -10,3 +10,6 @@
 [submodule "libs/ma (g"]
 	path = libs/ma (g
 	url = https://github.com/Pistonight/test
+[submodule "libs/add"]
+	path = libs/add
+	url = https://github.com/Pistonight/test
