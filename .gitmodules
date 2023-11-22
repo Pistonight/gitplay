@@ -1,7 +1,6 @@
-[submodule "libs/test"]
-	path = libs/test
-	url = https://github.com/Pistonight/test
-	branch = main
 [submodule "magoo"]
 	path = libs/magoo
+	url = https://github.com/Pistonight/test
+[submodule "libs/test"]
+	path = libs/test
 	url = https://github.com/Pistonight/test
