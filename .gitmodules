@@ -4,3 +4,12 @@
 [submodule "libs/test"]
 	path = libs/test
 	url = https://github.com/Pistonight/test
+[submodule "libs/ma g"]
+	path = libs/ma g
+	url = https://github.com/Pistonight/test
+[submodule "libs/ma (g"]
+	path = libs/ma (g
+	url = https://github.com/Pistonight/test
+[submodule "libs/ma g (heads/main)"]
+	path = libs/ma g (heads/main)
+	url = https://github.com/Pistonight/test
