@@ -11,3 +11,9 @@
 	path = libs/ma (g
 	url = https://github.com/Pistonight/test
 
+[submodule "magoop"]
+	path = magoop
+	url = https://github.com/Pistonight/test
+[submodule "magoop2"]
+	path = libs/magoop
+	url = https://github.com/Pistonight/test
